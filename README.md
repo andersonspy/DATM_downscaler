@@ -56,7 +56,6 @@ Place the downloaded GCM projection files in the corresponding subdirectories un
     *   `hurs`: Relative humidity
     *   `sfcWind`: Wind speed
 *   **Format:** Each variable should be in NetCDF (`.nc`) format.
-*   **Filename:** The filename should include the SSP scenario (e.g., `tas_ssp245.nc`).
 
 ## Running the Program
 
